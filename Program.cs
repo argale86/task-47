@@ -1,4 +1,4 @@
-﻿//найти кол-во чётных чисел в случайном массиве
+﻿//сгенерировать двумерный массив вещественных чисел размером m на n элементов
 Console.WriteLine("Введите кол-во элементов в массиве:");
 int m = Convert.ToInt32(Console.ReadLine());
 int n = Convert.ToInt32(Console.ReadLine());
